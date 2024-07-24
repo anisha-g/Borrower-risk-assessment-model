@@ -1,0 +1,34 @@
+Column Name,Col Description
+s.no,Each entry denotes a unique Data-Point
+borrower,Each entry of this column denotes a unique borrowing
+financial dob,The day when the bank account was opened from where the EMIs were being paid
+nonfinancial dob,Actual birthday of the borrower
+annual_income,The annual income of the borrower
+profession,The profession of the borrower
+marital status,If the borrower is married or not
+institute_name,The institute from where the borrower is pursuing the program
+course_name,The course which is being pursued by the borrower
+loan amount,Amount of money borrowed by the borrower
+course_cost,The total cost of the course which is opted for by the borrower
+dpd_days,Dues-Passed-Days explained above
+current_status,"Denotes the current status of the EMI of the borrower, either 'EMI Running' or 'Fully Disbursed'"
+current city,The city where Borrower is currently living
+current state,The state where the Borrower is currently living
+current pincode,The Pin code corresponding to the current address of the Borrower
+permanent city,The city corresponding to the permanent address of the Borrower
+permanent state,The State corresponding to the permanent address of the Borrower
+interest rate,The rate of interest at which the borrower has to give the EMI
+enach activated,The EMI payment can be done online or not
+imdb success,"If the borrower's details according to KPIs fall under satisfactory boundaries, then success = Yes, otherwise it is No"
+protection_type_name,This indicates the kind of safety the lender will receive in the event that the borrower becomes a defaulter
+cibilscore,"One commonly used credit score, in case credit history is available"
+lender_name,The entity which lends money to the borrower
+company name,The Organization where a Borrower works
+disbursal date,The date on which the Education organization received the money from the lender on behalf of the borrower
+work experience,The number of years of experience of the Borrower
+loan category,It is always an Education loan
+loan type,Purpose of the Loan - College education/ School Education/ Certification
+sector,The sector where the course providers or the institutes belong
+residence type,"This denotes the type of resident of the borrower e.g., Rented or Owned"
+tenure,Denotes the duration in years for which the borrower has borrowed the money
+emi_amount,Denote the amount/year that the borrower has to give
