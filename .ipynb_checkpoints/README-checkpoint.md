@@ -48,7 +48,7 @@ By leveraging data analysis to identify risky borrowers, the client can signific
 1. **Load the Data**: Read the dataset into a data frame.
 2. **Inspect the Data**: Get an overview of the dataset, including its shape, data types, and summary statistics.
 3. **Handle Missing Values**: Identify and handle missing values by filling, dropping, or imputing them.
-4. **Encode Categorical Variables**: Convert categorical variables into numerical format using techniques like one-hot encoding or label encoding.
+4. **Encode Categorical Variables**:  Convert categorical variables into numerical format using techniques like one-hot encoding or label encoding.
 
 ### Step 2: Exploratory Data Analysis (EDA)
 1. **Visualize Data Distributions**: Plot distributions of numerical features to understand their spread and identify any anomalies.
